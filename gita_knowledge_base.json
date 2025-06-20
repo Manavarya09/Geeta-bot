@@ -1,0 +1,227 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "chapter": 2,
+      "verse": 47,
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana, mā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi",
+      "english": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+      "theme": [
+        "anxiety",
+        "stress",
+        "worry",
+        "performance"
+      ],
+      "emotion_tags": [
+        "anxious",
+        "worried",
+        "stressed",
+        "overwhelmed"
+      ],
+      "therapeutic_explanation": "This verse teaches us to focus on our efforts rather than obsessing over outcomes. When you're feeling anxious about results, remember that you can only control your actions, not the consequences. This perspective brings peace and reduces anxiety about things beyond your control."
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "verse": 56,
+      "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+      "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ, vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate",
+      "english": "One whose mind remains undisturbed amidst misery, who does not crave for pleasure, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.",
+      "theme": [
+        "equanimity",
+        "balance",
+        "emotional_stability"
+      ],
+      "emotion_tags": [
+        "angry",
+        "fearful",
+        "unstable",
+        "reactive"
+      ],
+      "therapeutic_explanation": "True wisdom lies in maintaining inner peace regardless of external circumstances. This verse reminds us that emotional stability comes from within, not from changing external situations. Practice observing your emotions without being controlled by them."
+    },
+    {
+      "id": 3,
+      "chapter": 4,
+      "verse": 10,
+      "sanskrit": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः। बहवो ज्ञानतपसा पूता मद्भावमागताः॥",
+      "transliteration": "vīta-rāga-bhaya-krodhā man-mayā mām upāśritāḥ, bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ",
+      "english": "Being freed from attachment, fear and anger, becoming fully absorbed in Me, and taking refuge in Me, many persons in the past became purified by knowledge of Me, and thus attained My divine love.",
+      "theme": [
+        "fear",
+        "anxiety",
+        "surrender",
+        "trust"
+      ],
+      "emotion_tags": [
+        "fearful",
+        "anxious",
+        "scared",
+        "alone"
+      ],
+      "therapeutic_explanation": "Fear often stems from feeling alone in our struggles. This verse teaches that true peace comes from surrendering our need to control everything and trusting in a higher power. You are not alone in your journey."
+    },
+    {
+      "id": 4,
+      "chapter": 12,
+      "verse": 15,
+      "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥",
+      "transliteration": "yasmān nodvijate loko lokān nodvijate cha yaḥ, harṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ",
+      "english": "Those who are not a source of annoyance to anyone and who in turn are not agitated by anyone, who are equal in pleasure and pain, and free from fear and anxiety, such devotees are very dear to Me.",
+      "theme": [
+        "social_anxiety",
+        "relationships",
+        "peace"
+      ],
+      "emotion_tags": [
+        "socially anxious",
+        "agitated",
+        "irritated",
+        "disturbed"
+      ],
+      "therapeutic_explanation": "Social harmony comes from inner peace. When you're not reactive to others' actions and don't cause disturbance to others, you create a peaceful environment around you. This reduces social anxiety and improves relationships."
+    },
+    {
+      "id": 5,
+      "chapter": 2,
+      "verse": 3,
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥",
+      "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyate, kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa",
+      "english": "Yield not to unmanliness, O Partha, it does not become you. Shaking off this base faint-heartedness, stand up, O scorcher of enemies.",
+      "theme": [
+        "depression",
+        "despair",
+        "weakness",
+        "motivation"
+      ],
+      "emotion_tags": [
+        "depressed",
+        "hopeless",
+        "weak",
+        "defeated"
+      ],
+      "therapeutic_explanation": "Sometimes we need a gentle push to overcome our inner weakness. This verse reminds you of your inner strength and potential. Depression and despair are temporary states - you have the power to rise above them and reclaim your strength."
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "verse": 5,
+      "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+      "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet, ātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ",
+      "english": "One must elevate oneself by one's own mind, not degrade oneself. The mind is the friend of the conditioned soul, and his enemy as well.",
+      "theme": [
+        "self_improvement",
+        "mind_control",
+        "self_help"
+      ],
+      "emotion_tags": [
+        "confused",
+        "self-critical",
+        "lost",
+        "conflicted"
+      ],
+      "therapeutic_explanation": "You are your own best friend and worst enemy. Your mind can either lift you up or bring you down. Take responsibility for your thoughts and choose to be kind to yourself. Self-compassion is the first step toward healing."
+    },
+    {
+      "id": 7,
+      "chapter": 18,
+      "verse": 66,
+      "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+      "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja, ahaṁ tvā sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ",
+      "english": "Abandon all varieties of dharma and surrender unto Me alone. I shall liberate you from all sinful reactions; do not fear.",
+      "theme": [
+        "surrender",
+        "forgiveness",
+        "guilt",
+        "redemption"
+      ],
+      "emotion_tags": [
+        "guilty",
+        "ashamed",
+        "burdened",
+        "regretful"
+      ],
+      "therapeutic_explanation": "When guilt and shame weigh heavy on your heart, remember that redemption is always possible. Surrender your burdens and trust in forgiveness. Your past mistakes do not define your future potential."
+    },
+    {
+      "id": 8,
+      "chapter": 2,
+      "verse": 62,
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+      "transliteration": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate, saṅgāt sañjāyate kāmaḥ kāmāt krodho 'bhijāyate",
+      "english": "While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.",
+      "theme": [
+        "anger",
+        "attachment",
+        "desire",
+        "control"
+      ],
+      "emotion_tags": [
+        "angry",
+        "frustrated",
+        "attached",
+        "craving"
+      ],
+      "therapeutic_explanation": "Anger has a clear progression - it starts with excessive thinking about what we want, leading to attachment, then craving, and finally anger when we don't get it. Understanding this pattern helps you catch anger at its source - your thoughts."
+    },
+    {
+      "id": 9,
+      "chapter": 15,
+      "verse": 7,
+      "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः। मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥",
+      "transliteration": "mamaivāṁśho jīva-loke jīva-bhūtaḥ sanātanaḥ, manaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati",
+      "english": "The living entities in this conditioned world are My eternal fragmental parts. Due to conditioned life, they are struggling very hard with the six senses, which include the mind.",
+      "theme": [
+        "identity",
+        "purpose",
+        "connection",
+        "struggle"
+      ],
+      "emotion_tags": [
+        "lost",
+        "disconnected",
+        "purposeless",
+        "struggling"
+      ],
+      "therapeutic_explanation": "You are not separate or alone - you are a part of the divine consciousness. Your struggles are part of the human experience, but remember your true divine nature. This connection gives meaning to your challenges and purpose to your journey."
+    },
+    {
+      "id": 10,
+      "chapter": 2,
+      "verse": 14,
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+      "transliteration": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ, āgamāpāyino 'nityās tāṁs titikṣhasva bhārata",
+      "english": "O son of Kunti, the contact between the senses and sense objects gives rise to feelings of heat and cold, pleasure and pain. These feelings are temporary and fleeting, so you must learn to tolerate them, O Bharata.",
+      "theme": [
+        "impermanence",
+        "acceptance",
+        "endurance"
+      ],
+      "emotion_tags": [
+        "suffering",
+        "in pain",
+        "uncomfortable",
+        "restless"
+      ],
+      "therapeutic_explanation": "All experiences - both pleasant and unpleasant - are temporary. Just as winter is followed by spring, your current pain or discomfort will pass. Develop the patience to endure difficult times, knowing they are not permanent."
+    }
+  ],
+  "daily_quotes": [
+    {
+      "id": 1,
+      "verse": 2.47,
+      "text": "Focus on your actions, not on results. Peace comes from letting go of outcomes."
+    },
+    {
+      "id": 2,
+      "verse": 2.56,
+      "text": "A wise person remains calm in both joy and sorrow, free from attachment, fear, and anger."
+    },
+    {
+      "id": 3,
+      "verse": 18.66,
+      "text": "Surrender your worries and trust in divine protection. You are never alone."
+    }
+  ]
+}
